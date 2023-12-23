@@ -1,0 +1,36 @@
+h2 {
+    background-color: white;
+    text-align: left;
+    position: relative;
+    color: black;
+}
+
+p {
+    background-color: white;
+    text-align: left;
+    font-size: medium;
+    color: black;
+    size: 100%;
+    visibility: visible;
+    overflow: visible;
+}
+
+button {
+    background-color: white;
+    text-align: left;
+    border-color: white;
+    position: fixed;
+}
+
+h3 {
+    background-color: white;
+    text-align: left;
+    position: relative;
+    color: black;
+    size: 100%;
+    visibility: visible;
+    overflow: visible;
+    font-size: medium;
+    font-weight: bold;
+    text-decoration: underline;
+}
